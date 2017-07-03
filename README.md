@@ -1,4 +1,4 @@
-["garfado" de (SOUJava)[https://github.com/soujava/vagas-java]]
+"garfado" de [SOUJava](https://github.com/soujava/vagas-java)
 
 # Vagas Java - GOJava
 
