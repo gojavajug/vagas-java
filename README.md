@@ -1,12 +1,14 @@
-# Vagas Java - Slack Java Dev BR
+["garfado" de (SOUJava)[https://github.com/soujava/vagas-java]]
+
+# Vagas Java - GOJava
 
 Espaço para a divulgação de vagas para desenvolvedores Java, utilizando via issues do GitHub.
 
-Vagas disponíveis no link: https://github.com/soujava/vagas-java/issues
+Vagas disponíveis no link: https://github.com/gojavajug/vagas-java/issues
 
 ### Cadastrando uma vaga
 
-Crie uma **issue** no link: https://github.com/soujava/vagas-java/issues/new
+Crie uma **issue** no link: https://github.com/gojavajug/vagas-java/issues/new
 
 A issue tem um template específico, basta você editá-lo como desejar. No titulo da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa (se existir), exemplo:
 
