@@ -8,13 +8,7 @@ Espaço para a divulgação de vagas para desenvolvedores Java, utilizando via i
 
 ### Cadastrando uma vaga
 
-Crie uma [**issue**](https://github.com/gojavajug/vagas-java/issues/new)
-
-A issue tem um template específico, basta você editá-lo como desejar. No titulo da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa (se existir), exemplo:
-
-`[Cidade, Estado] Desenvolvedor Java | ACME LTDA`
-
-Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
+Para cadastrar uma vaga basta preencher o seguinte [formulário](https://goo.gl/forms/VYgYmJ2tGfSWVixd2).
 
 ### Código de Conduta
 
